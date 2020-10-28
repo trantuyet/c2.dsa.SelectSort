@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad9a7633-6c5e-4db3-a217-c9370c3b7126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/my_domain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/demo_arrayList_linkedList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecToBin/.idea/DecToBin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecToBin/DecToBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecToBin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Delete1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/.idea/PriorityQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.BracketStack/.idea/c2.BracketStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.BracketStack/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.BracketStack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.BracketStack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.BracketStack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.SquareDance/.idea/c2.SquareDance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.SquareDance/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.SquareDance/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.count/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.guessNum/Result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.guessNum/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/PEQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/.idea/c2.php.dsa.stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/PEQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/PalindromeQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/ReverseStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/indexbt3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/tetqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/.idea/dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/linked_list/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/linked_list/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/inheritance.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jUVrBCTNpzax1svbZHAmOGAZpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9a7633-6c5e-4db3-a217-c9370c3b7126" name="Default Changelist" comment="" />
+      <created>1603858853670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603858853670</updated>
+      <workItem from="1603858854927" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603858865485">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="838" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1603858865485" />
+  </component>
+</project>
